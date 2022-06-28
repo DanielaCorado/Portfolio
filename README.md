@@ -17,7 +17,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 
 ## Projetos: 
 
-* [Lista de projetos em Jupyter Notebook](#Lista-de-projetos-em-Jupyter-Notebook)
+* [Jupyter Notebook](#Lista-de-projetos-em-Jupyter-Notebook)
 * [Power BI](#Lista-de-projetos-usando-Power-BI) 
 * [SQL](#Lista-de-projetos-usando-SQL)
 
