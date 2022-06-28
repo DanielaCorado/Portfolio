@@ -4,9 +4,9 @@
 <a href = "https://www.python.org/downloads/release/python-3100/" target="_blank"><img src="https://img.shields.io/badge/Python-3.10-blue"></a>
 <a href= "https://www.linkedin.com/in/daniela-corado-077365192/" target="_blank"><img src="https://img.shields.io/badge/Autor-Daniela%20Corado-red" target="_blank">
 </a> 
-<a href=  "https://powerbi.microsoft.com/pt-br/"  target="_blank"><img src="https://img.shields.io/badge/-Power%20BI-yellowgreen"</a>   
-<a href=  "https://www.mysql.com/downloads/"  target="_blank"><img src="https://img.shields.io/badge/-MySQL-blue"</a> 
-<a href=  "https://www.microsoft.com/pt-br/microsoft-365/excel"  target="_blank"><img src="https://img.shields.io/badge/-Excel-brightgreen"</a>   
+<a href=  "https://powerbi.microsoft.com/pt-br/"  target="_blank"><img src="https://img.shields.io/badge/-Power%20BI-yellowgreen"></a> 
+<a href=  "https://www.mysql.com/downloads/"  target="_blank"><img src="https://img.shields.io/badge/-MySQL-blue" ></a>
+<a href=  "https://www.microsoft.com/pt-br/microsoft-365/excel"  target="_blank"><img src="https://img.shields.io/badge/-Excel-brightgreen" ></a> 
 </div> 
 
 
