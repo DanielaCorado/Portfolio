@@ -18,15 +18,17 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 ## Projetos: 
 
 * [Jupyter Notebook](#Lista-de-projetos-em-Jupyter-Notebook)
-* [Power BI](#Lista-de-projetos-usando-Power-BI) 
 * [SQL](#Lista-de-projetos-usando-SQL)
-
+* [Power BI](#Lista-de-projetos-usando-Power-BI) 
 
 ## Lista de projetos em Jupyter Notebook
 
 * **Enem 2019 :** https://github.com/DanielaCorado/Portfolio/blob/main/ENEM_2019.ipynb
 * **Precificação de imóveis :** https://github.com/DanielaCorado/Portfolio/blob/main/Precifica%C3%A7%C3%A3o_de_im%C3%B3veis.ipynb
 
+## Lista de projetos usando SQL
+
+* **Venda de sucos:** https://github.com/DanielaCorado/MySQL-Vendas-de-Sucos
 
 ## Lista de projetos usando Power BI
 
@@ -40,6 +42,4 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 * **E-commerce:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
 * **Petshop:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
 
-## Lista de projetos usando SQL
 
-* **Venda de sucos:** https://github.com/DanielaCorado/MySQL-Vendas-de-Sucos
