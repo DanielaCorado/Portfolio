@@ -25,7 +25,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 
 * **Enem 2019 :** 
 * **Precificação de imóveis :** 
-* ** Ligações 911 :**
+* **Ligações 911 :**
 
 ## Lista de projetos usando SQL
 
