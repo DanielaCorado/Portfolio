@@ -32,8 +32,6 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 
 ## Lista de projetos usando Power BI
 
-* **Pesquisa de Satisfação:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
-
 * **Campeonato brasileiro 2021:** https://sites.google.com/view/portfoliodanielacorado/power-bi/brasileir%C3%A3o-2021?authuser=0
 * **Corrida de cavalo:** https://sites.google.com/view/portfoliodanielacorado/power-bi/corrida-de-cavalo?authuser=0
 * **Pesquisa de satisfação:** https://sites.google.com/view/portfoliodanielacorado/power-bi/pesquisa-de-satisfa%C3%A7%C3%A3o?authuser=0
