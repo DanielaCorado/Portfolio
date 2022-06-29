@@ -17,11 +17,11 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 
 ## Projetos: 
 
-* [Jupyter Notebook](#Lista-de-projetos-em-Jupyter-Notebook)
+* [Python](#Lista-de-projetos-em-Python)
 * [SQL](#Lista-de-projetos-usando-SQL)
 * [Power BI](#Lista-de-projetos-usando-Power-BI) 
 
-## Lista de projetos em Jupyter Notebook
+## Lista de projetos em Python
 
 * **Enem 2019 :** https://github.com/DanielaCorado/Portfolio/blob/main/ENEM_2019.ipynb
 * **Precificação de imóveis :** https://github.com/DanielaCorado/Portfolio/blob/main/Precifica%C3%A7%C3%A3o_de_im%C3%B3veis.ipynb
