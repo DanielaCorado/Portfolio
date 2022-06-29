@@ -34,12 +34,13 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 
 * **Pesquisa de Satisfação:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
 
-* **Campeonato brasileiro 2021:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
-* **Corrida de cavalo:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
-* **Esportes radicais:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
-* **Logística:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
-* **Recursos Humanos:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
-* **E-commerce:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
-* **Petshop:** https://sites.google.com/d/1CRSKQv72b29T5bvlCN6-JG4FJKxqYAnm/p/1Oiqw3waTE7vj685murPYLCb-zG2-n28E/edit
+* **Campeonato brasileiro 2021:** https://sites.google.com/view/portfoliodanielacorado/power-bi/brasileir%C3%A3o-2021?authuser=0
+* **Corrida de cavalo:** https://sites.google.com/view/portfoliodanielacorado/power-bi/corrida-de-cavalo?authuser=0
+* **Pesquisa de satisfação:** https://sites.google.com/view/portfoliodanielacorado/power-bi/pesquisa-de-satisfa%C3%A7%C3%A3o?authuser=0
+* **Esportes radicais:** https://sites.google.com/view/portfoliodanielacorado/power-bi/esportes-radicais?authuser=0
+* **Logística:** https://sites.google.com/view/portfoliodanielacorado/power-bi/logist%C3%ADca?authuser=0
+* **Recursos Humanos:** https://sites.google.com/view/portfoliodanielacorado/power-bi/recursos-humanos?authuser=0
+* **E-commerce:** https://sites.google.com/view/portfoliodanielacorado/power-bi/e-commerce?authuser=0
+* **Petshop:** https://sites.google.com/view/portfoliodanielacorado/power-bi/pet-shop?authuser=0
 
 
