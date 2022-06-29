@@ -6,7 +6,6 @@
 </a> 
 <a href=  "https://powerbi.microsoft.com/pt-br/"  target="_blank"><img src="https://img.shields.io/badge/-Power%20BI-yellowgreen"></a> 
 <a href=  "https://www.mysql.com/downloads/"  target="_blank"><img src="https://img.shields.io/badge/-MySQL-blue" ></a>
-<a href=  "https://www.microsoft.com/pt-br/microsoft-365/excel"  target="_blank"><img src="https://img.shields.io/badge/-Excel-brightgreen" ></a> 
 </div> 
 
 
