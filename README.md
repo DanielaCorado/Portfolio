@@ -24,6 +24,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 
 * **Enem 2019 :** https://github.com/DanielaCorado/Portfolio/blob/main/ENEM_2019.ipynb
 * **Precificação de imóveis :** https://github.com/DanielaCorado/Portfolio/blob/main/Precifica%C3%A7%C3%A3o_de_im%C3%B3veis.ipynb
+* **Ligações 911:** https://github.com/DanielaCorado/Portfolio/blob/main/Liga%C3%A7%C3%B5es_911.ipynb
 
 ## Lista de projetos usando SQL
 
