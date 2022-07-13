@@ -27,6 +27,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 * **Ligações 911 :** https://github.com/DanielaCorado/Portfolio/blob/main/Liga%C3%A7%C3%B5es_911.ipynb
 * **Loja de roupas online:** https://github.com/DanielaCorado/Portfolio/blob/main/Loja_de_Roupas_Online.ipynb
 * **Dados de publicidade:** https://github.com/DanielaCorado/Portfolio/blob/main/Publicidade.ipynb
+* **LendingClub:** https://github.com/DanielaCorado/Portfolio/blob/main/Lending_Club.ipynb
 
 ## Lista de projetos usando SQL
 
